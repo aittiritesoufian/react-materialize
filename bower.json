@@ -1,5 +1,5 @@
 {
-  "name": "react-materialize",
+  "name": "react18-materialize",
   "version": "0.12.0",
   "homepage": "https://react-materialize.github.io",
   "authors": [
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-materialize/react-materialize.git"
+    "url": "https://github.com/aittiritesoufian/react-materialize.git"
   },
   "moduleType": [
     "node",
